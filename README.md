@@ -8,6 +8,8 @@ This is a React-based weather application that provides real-time weather update
 - Responsive and visually appealing design using `CSS`.
 - Fetches weather data using the OpenWeatherMap API.
 
+![Screenshot 2025-03-26 102009](https://github.com/user-attachments/assets/5e8ea757-83a2-41b8-ac1c-6f5439311404)
+
 ## Technologies Used
 - **React**: For building the user interface.
 - **HTML & CSS**: For structuring and styling the application.
